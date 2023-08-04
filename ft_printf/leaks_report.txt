@@ -1,0 +1,25 @@
+Process:         a.out [12902]
+Path:            /Users/USER/*/a.out
+Load Address:    0x1091b2000
+Identifier:      a.out
+Version:         0
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  zsh [8908]
+
+Date/Time:       2023-07-29 14:52:35.424 +0900
+Launch Time:     2023-07-29 14:52:34.381 +0900
+OS Version:      macOS 13.4.1 (22F82)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 14.3 (14E222a)
+
+Physical footprint:         364K
+Physical footprint (peak):  364K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0
+Process 12902: 176 nodes malloced for 9 KB
+Process 12902: 0 leaks for 0 total leaked bytes.
+

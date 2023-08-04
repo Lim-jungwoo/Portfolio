@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [
+        ""
+      ],
+      "stopAtEntry": true,
+      "cwd": "/Users/ljw/Desktop/42piscine/42seoul_cadet/cpp/cpp01/submit_cpp01/ex03",
+      "environment": [],
+      "program": "/Users/ljw/Desktop/42piscine/42seoul_cadet/cpp/cpp01/submit_cpp01/ex03/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "externalConsole": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/ljw/Desktop/42piscine/42seoul_cadet/ft_container/my_container'
+c++ -Wall -Wextra -Werror -std=c++98   -c -o main.o main.cpp
+c++ -Wall -Wextra -Werror -std=c++98 -o ft_containers ./main.o
+make: Leaving directory `/Users/ljw/Desktop/42piscine/42seoul_cadet/ft_container/my_container'
+ 
