@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory `/Users/ljw/Desktop/42piscine/42seoul_cadet/cpp'
-make: Leaving directory `/Users/ljw/Desktop/42piscine/42seoul_cadet/cpp'
- 
-make: *** No targets specified and no makefile found.  Stop.
-
